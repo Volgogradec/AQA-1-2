@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «1.2. Тестирование API, CI»
+# Домашнее задание к занятию «1.2. Тестирование API, CI» [![Build status](https://ci.appveyor.com/api/projects/status/0na5r9e5xr7cjrvi?svg=true)](https://ci.appveyor.com/project/Volgogradec/aqa-1-2)
 
 ## Задача №1 - Настройка CI
 
